@@ -1,0 +1,3 @@
+Se deben de codificar los algoritmos de Sort (Insertion Sort, Selection Sort, Bubble Sort,Merge Sort, Heap Sort y Quick Sort) en el lenguaje de programación que deseen (en este caso Python).
+
+Se analizará el tiempo de ejecución utilizando entradas pequeñas y muy muy grandes, tratar de utilizar los mismos tamaños de los arreglos para todos los sorts. Cada resultado debe de ser anotado en un Excel u hoja de calculo.
